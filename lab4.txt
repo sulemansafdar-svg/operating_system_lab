@@ -1,0 +1,55 @@
+sulemansafdar@WIN-TTVQQIPQ05A:/mnt/c/Users/hajis$ cd ~
+sulemansafdar@WIN-TTVQQIPQ05A:~$ cd /mnt/f
+sulemansafdar@WIN-TTVQQIPQ05A:/mnt/f$ dir
+$RECYCLE.BIN              M.Suleman\ F24-0565\ (2).zip  c++                           portfolio2               pythonnumpy
+888.sql                   Python\ NumPY                 file.txt                      project                  repository
+Data\ WareHouse           Queries\ for\ GIT             git\ authenticator\ recovery  projects                 semester_5
+Dataware\ House\ Project  SQL\ QUERIES                  is.txt                        pyhton\ with\ db         sql\ server
+Global_Pulse              S_PROJECT                     p17.py                        python\ for\ networking  web_engineering
+HIZBULLAH\ F24-0584.zip   System\ Volume\ Information   pakistan_weather_pipeline     python\ pandas           web_engineering\ lab
+M.Suleman\ F24-0565       apache_tutorial               portfolio                     python\ practice
+sulemansafdar@WIN-TTVQQIPQ05A:/mnt/f$ mkdir F24_0565
+sulemansafdar@WIN-TTVQQIPQ05A:/mnt/f$ dir
+$RECYCLE.BIN              M.Suleman\ F24-0565           apache_tutorial               portfolio                python\ practice
+888.sql                   M.Suleman\ F24-0565\ (2).zip  c++                           portfolio2               pythonnumpy
+Data\ WareHouse           Python\ NumPY                 file.txt                      project                  repository
+Dataware\ House\ Project  Queries\ for\ GIT             git\ authenticator\ recovery  projects                 semester_5
+F24_0565                  SQL\ QUERIES                  is.txt                        pyhton\ with\ db         sql\ server
+Global_Pulse              S_PROJECT                     p17.py                        python\ for\ networking  web_engineering
+HIZBULLAH\ F24-0584.zip   System\ Volume\ Information   pakistan_weather_pipeline     python\ pandas           web_engineering\ lab
+sulemansafdar@WIN-TTVQQIPQ05A:/mnt/f$ cd F24-0565
+-bash: cd: F24-0565: No such file or directory
+sulemansafdar@WIN-TTVQQIPQ05A:/mnt/f$ cd F24_0565
+sulemansafdar@WIN-TTVQQIPQ05A:/mnt/f/F24_0565$ nano suleman.txt
+sulemansafdar@WIN-TTVQQIPQ05A:/mnt/f/F24_0565$ cat suleman.txt
+Hello,My name is suleman and i am a bs cs student.
+sulemansafdar@WIN-TTVQQIPQ05A:/mnt/f/F24_0565$ ls
+suleman.txt
+sulemansafdar@WIN-TTVQQIPQ05A:/mnt/f/F24_0565$ cd ..
+sulemansafdar@WIN-TTVQQIPQ05A:/mnt/f$ mkdir bs_cs
+sulemansafdar@WIN-TTVQQIPQ05A:/mnt/f$ dir
+$RECYCLE.BIN              M.Suleman\ F24-0565\ (2).zip  c++                           project                  semester_5
+888.sql                   Python\ NumPY                 file.txt                      projects                 sql\ server
+Data\ WareHouse           Queries\ for\ GIT             git\ authenticator\ recovery  pyhton\ with\ db         web_engineering
+Dataware\ House\ Project  SQL\ QUERIES                  is.txt                        python\ for\ networking  web_engineering\ lab
+F24_0565                  S_PROJECT                     p17.py                        python\ pandas
+Global_Pulse              System\ Volume\ Information   pakistan_weather_pipeline     python\ practice
+HIZBULLAH\ F24-0584.zip   apache_tutorial               portfolio                     pythonnumpy
+M.Suleman\ F24-0565       bs_cs                         portfolio2                    repository
+sulemansafdar@WIN-TTVQQIPQ05A:/mnt/f$ cd bs_cs
+sulemansafdar@WIN-TTVQQIPQ05A:/mnt/f/bs_cs$ cd ..
+sulemansafdar@WIN-TTVQQIPQ05A:/mnt/f$ mv bs_cs operating_system
+sulemansafdar@WIN-TTVQQIPQ05A:/mnt/f$ cd operating_system
+sulemansafdar@WIN-TTVQQIPQ05A:/mnt/f/operating_system$ cd ..
+sulemansafdar@WIN-TTVQQIPQ05A:/mnt/f$ cp -r F24_0565 operating_system
+sulemansafdar@WIN-TTVQQIPQ05A:/mnt/f$ cd operating_system
+sulemansafdar@WIN-TTVQQIPQ05A:/mnt/f/operating_system$ ls
+F24_0565
+sulemansafdar@WIN-TTVQQIPQ05A:/mnt/f/operating_system$ cat F24_0565
+cat: F24_0565: Is a directory
+sulemansafdar@WIN-TTVQQIPQ05A:/mnt/f/operating_system$ cd F24_0565
+sulemansafdar@WIN-TTVQQIPQ05A:/mnt/f/operating_system/F24_0565$ ls
+suleman.txt
+sulemansafdar@WIN-TTVQQIPQ05A:/mnt/f/operating_system/F24_0565$ cat suleman.txt
+Hello,My name is suleman and i am a bs cs student.
+sulemansafdar@WIN-TTVQQIPQ05A:/mnt/f/operating_system/F24_0565$
